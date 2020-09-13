@@ -24,3 +24,4 @@
     cd ddconst
     pip install -e ./
     ```
+   > This installs the development version of the package, where changes are automatically available within the environment
