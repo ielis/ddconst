@@ -9,7 +9,7 @@ with open("README.md", 'r') as fh:
     long_description = fh.read()
 
 setup(name='ddconst',
-      version='0.0.2.dev0',
+      version='0.0.2',
       author='Daniel Danis',
       author_email='daniel.gordon.danis@protonmail.com',
       description='Constants used across multiple codebases',
