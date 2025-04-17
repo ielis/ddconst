@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## `v0.0.3`
+
+- migrate package to `pyproject.toml`
+
 ## `v0.0.2`
 - `ddconst.plotting.colors`
   - add green and blue color sequences
